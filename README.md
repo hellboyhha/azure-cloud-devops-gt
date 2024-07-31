@@ -1,6 +1,6 @@
 # AzureCloudDevOps-GT
 
-## DotNet8 CICD & Deploy on GitLab
+## DotNet8 CICD on GitLab
 [Please follow this GitHub repo.](https://github.com/hellboyhha/donet-cicd-on-gitlab)
 
 ## DotNet & Mysql Deployment on Azure AKS
